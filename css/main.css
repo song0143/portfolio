@@ -1,0 +1,21 @@
+.navbar {
+    font-family: 'Baloo Chettan 2', cursive;
+    font-weight: 600;
+    background-color: black;
+}
+
+.custom-header .navbar-brand img {
+    max-height: 75px; /* 最大高度，可以根据需要进行调整 */
+    width: auto; /* 让宽度自适应 */
+    ;
+}
+
+.navbar-nav.ml-auto {
+    margin-left: auto;
+    
+}
+
+.col-md-6 {
+    margin-top: 1rem; /* 添加顶部间隙 */
+}
+
