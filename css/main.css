@@ -19,3 +19,15 @@
     margin-top: 1rem; /* 添加顶部间隙 */
 }
 
+.container {
+    font-family:'Baloo Chettan 2', cursive;
+}
+
+.card-body {
+    max-width: 480px; /* 控制宽度 */
+    max-height: 350px;
+    overflow: hidden;
+    scrollbar-width: none;
+    text-overflow: ellipsis; /* 控制文本溢出时显示省略号 */
+    
+}
